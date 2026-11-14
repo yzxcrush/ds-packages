@@ -1,0 +1,21 @@
+{
+  "schema": 1,
+  "updated": "2026-11-14",
+  "packages": {
+    "ds-hello": {
+      "repo": "yzxcrush/ds-hello",
+      "summary": "dspm 示例包：一个 hello 模块",
+      "latest": "v0.1.0",
+      "tags": [
+        "v0.1.0"
+      ],
+      "targets": [
+        "app",
+        "bare"
+      ],
+      "exports": [
+        "hello"
+      ]
+    }
+  }
+}
